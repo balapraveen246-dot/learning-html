@@ -1,0 +1,38 @@
+body {
+    font-size: 20px;
+    font-family: "Playwrite ID", cursive;
+    font-weight: light;
+}
+.one{
+    text-align: center;
+    background-color: purple;
+    color: rgba(10, 230, 65, 0.705);
+    font-size: 35px;
+}
+.five{
+    text-align: center;
+    background-color: rgba(221, 80, 160, 0.421);
+    color: rgba(108, 12, 43, 0.705);
+    font-size: 35px;
+}
+.two{
+    text-align: center;
+    background-color: rgb(158, 21, 21);
+    color: rgba(0, 0, 0, 0.705);
+    font-size: 35px;
+}
+.three{
+    text-align: center;
+    background-color: rgb(23, 54, 165);
+    color: rgb(243, 245, 245);
+    font-size: 35px;
+}
+.four{
+    text-align: center;
+    background-color: rgba(156, 147, 15, 0.519);
+    color: rgba(77, 11, 73, 0.458);
+    font-size: 35px;
+}
+
+
+
